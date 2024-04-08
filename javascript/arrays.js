@@ -1,4 +1,3 @@
-
 let courses = ["Javascript", "Java", "Angular", "React"];//Pre-defined array of courses
 courses.length = 10
 
